@@ -4,7 +4,6 @@ Indian Cities Waste Management Analytics using Power BI
 # Municipal Waste Management Analytics (Power BI)
 
 ## Overview
-![Overview](Screenshot 2026-01-22 175053.png)
 This project analyzes municipal waste generation, recycling efficiency, and population-adjusted waste pressure across Indian cities (2019–2023).
 
 The objective is to understand whether awareness campaigns translate into better waste outcomes and identify data-driven intervention priorities.
