@@ -27,6 +27,7 @@ The objective is to understand whether awareness campaigns translate into better
 ## Live Dashboard
 👉 **Power BI Report (Public Link)**  
 https://app.powerbi.com/view?r=eyJrIjoiYjk5OWQyZDUtNjRlYy00M2M1LTg0OGMtYWZlMDA1MDZiMDViIiwidCI6ImJjZTUyZGEzLWIwZTYtNDk0ZS1iMTM1LWUzMDRkMzRhNjc5YiJ9
+- Map shown as static preview due to public publishing limitations
 
 ## Screenshots
 <img width="1224" height="736" alt="Screenshot 2026-01-22 175053" src="https://github.com/user-attachments/assets/7869d63a-3fa1-4608-8d9c-da7b344a01be" />
